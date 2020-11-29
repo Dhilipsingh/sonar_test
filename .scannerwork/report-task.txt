@@ -1,0 +1,6 @@
+projectKey=sonar
+serverUrl=https://sonarqube-dev.lla.digital
+serverVersion=8.2.0.32929
+dashboardUrl=https://sonarqube-dev.lla.digital/dashboard?id=sonar
+ceTaskId=AXYPcrUAlRDbaPbCYib6
+ceTaskUrl=https://sonarqube-dev.lla.digital/api/ce/task?id=AXYPcrUAlRDbaPbCYib6
